@@ -10,3 +10,4 @@ npm run dev
 yarn dev
 ```
 
+In this project I simply show some Pokemons from PokeAPI, and you can see more details about each one through Dynamic Routes.
