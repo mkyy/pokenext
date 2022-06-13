@@ -17,7 +17,7 @@ export default function About() {
         <h1>Sobre o PokeNext</h1>
         <p>
           Este projeto foi criado usando Next.js e Styled Components, todo código está disponivel no{' '}
-          <a href=''>github.</a>
+          <a href='https://github.com/mkyy/pokenext'>github.</a>
         </p>
         <Image src='/charizard.png' alt='About' width={300} height={300} />
       </Container>
